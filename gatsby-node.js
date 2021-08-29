@@ -1,7 +1,5 @@
 const path = require(`path`);
-// require('dotenv').config({
-//   path: `.env.${process.env.NODE_ENV}`
-// });
+
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.onCreateWebpackConfig = ({ actions }) => {
@@ -45,7 +43,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   posts.forEach((post, index) => {
     createPage({
-      path: `${post.node.slug}`,
+      path: `blog/${post.node.slug}`,
       component: blogPostTemplate,
       context: {
         slug: `${post.node.slug}`
