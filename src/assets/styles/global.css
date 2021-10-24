@@ -1,6 +1,32 @@
-/* purgecss start ignore */
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-/* purgecss end ignore */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@import 'tailwindcss/utilities';
+@layer base {
+  h1 {
+    @apply text-6xl text-center;
+  }
+
+  h2 {
+    @apply text-4xl text-center font-bold mb-8 mt-12;
+  }
+
+  h3 {
+    @apply text-sm text-center;
+  }
+
+  p, li, div {
+    @apply text-base;
+  }
+  p, ul {
+    @apply mb-2;
+  }
+
+  ul {
+     @apply list-disc ml-12
+  }
+
+  ol {
+    @apply list-decimal ml-12
+ }
+}
