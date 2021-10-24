@@ -2,5 +2,5 @@
 category: 'services'
 title: 'Mentor'
 icon: 'bullhorn'
-description: 'When time allows, I try to share my wisdom with new managers.'
+description: 'I like to help junior developers to not give up and grow faster.'
 ---

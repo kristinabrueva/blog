@@ -1,6 +1,6 @@
 ---
 category: 'contact'
-title: 'Phone'
-icon: 'phone'
-content: '+61 499 552 800'
+title: 'Email'
+icon: 'paper-plane'
+content: 'kristinabruuu@gmail.com'
 ---
