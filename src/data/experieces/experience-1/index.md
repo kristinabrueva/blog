@@ -1,9 +1,16 @@
 ---
 category: 'experiences'
-company: 'Forge Inc'
-position: 'UI/UX Designer'
-startDate: 'Mar 2010'
-endDate: 'Dec 2010'
+company: 'Admiral Makarov State University'
+position: 'Junior Developer'
+startDate: 'Oct 2012'
+endDate: 'Aug 2013'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+I was able to demonstrate exceptional organisational and time management skills. I worked collaboratively within a team environment and actively engaged with diverse stakeholders. Environment: HTML/CSS, PHP, Joomla!
+
+My main responsibility was website management and coordination
+
+- Created, edited & published content on the website
+- Created and optimised pages including titles, descriptions, images, and content for SEO
+- Ensured website banners are optimised and up to date
+- Managed confidential and sensitive material, including the maintenance of accurate and appropriate records of applicants in the database

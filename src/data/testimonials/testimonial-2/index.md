@@ -4,4 +4,4 @@ cover: './testimonial-2.jpeg'
 title: 'David Low'
 ---
 
-Brilliant technically, a great leader and team player and extremely reliable. Igor cannot be recommended enough.
+Kristina is a highly motivated Consultant with excellent communication skills, a drive for learning and an ability to pick up new technology extremely quickly.

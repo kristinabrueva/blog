@@ -4,4 +4,4 @@ cover: './testimonial-1.jpeg'
 title: 'Jason Wong'
 ---
 
-Igor is extremely knowledgeable in ICT management and and implementation. Able to deliver on complex, concurrent projects in environments where resource constraints pose as significant challenges.
+Kristina is a highly motivated Consultant with excellent communication skills, a drive for learning and an ability to pick up new technology extremely quickly.

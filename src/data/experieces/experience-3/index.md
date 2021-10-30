@@ -1,9 +1,14 @@
 ---
 category: 'experiences'
-company: 'Facebook'
+company: 'Tensor'
 position: 'Frontend Developer'
-startDate: 'May 2013'
-endDate: 'Jun 2015'
+startDate: 'Nov 2013'
+endDate: 'Apr 2014'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Tensor is a large Russian company that develops an ecosystem for business — GSI, the operator of e-document flow, federal certification centre, the fiscal data operator accredited by FTS.
+
+- JavaScript developer in a large team with specific environment and documentation
+- Created payment forms and validation
+- Created and modified data filters and form auto-complete
+- Converted Form Data to PDF

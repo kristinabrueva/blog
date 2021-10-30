@@ -30,7 +30,10 @@ const ConctactInfo: React.FC = () => {
           subtitle
         }
       }
-      allMarkdownRemark(filter: { frontmatter: { category: { eq: "contact" } } }, sort: { fields: frontmatter___title }) {
+      allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "contact" } } }
+        sort: { fields: frontmatter___title }
+      ) {
         edges {
           node {
             id
@@ -50,7 +53,6 @@ const ConctactInfo: React.FC = () => {
 
   return (
     <Container section>
-      <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
       {contacts.map((item) => {
         const {
           id,

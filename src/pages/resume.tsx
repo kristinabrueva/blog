@@ -12,8 +12,6 @@ const ResumePage: React.FC = () => (
     <Experience />
     <hr />
     <Education />
-    <hr />
-    <Skills />
   </Layout>
 );
 

@@ -30,7 +30,10 @@ const Services: React.FC = () => {
           subtitle
         }
       }
-      allMarkdownRemark(filter: { frontmatter: { category: { eq: "services" } } }, sort: { fields: frontmatter___title }) {
+      allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "services" } } }
+        sort: { fields: frontmatter___title }
+      ) {
         edges {
           node {
             id
@@ -50,7 +53,6 @@ const Services: React.FC = () => {
 
   return (
     <Container section>
-      <TitleSection title={sectionTitle.title} subtitle={sectionTitle.subtitle} center />
       <Styled.Services>
         {services.map((item) => {
           const {
