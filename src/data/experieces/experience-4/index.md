@@ -1,9 +1,14 @@
 ---
 category: 'experiences'
-company: 'Netlify'
-position: 'Senior Frontend Developer'
-startDate: 'Jun 2015'
-endDate: 'Jan 2018'
+company: 'Social Media Platform'
+position: 'Freelance Developer'
+startDate: 'Nov 2014'
+endDate: 'Apr 2015'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Worked on a social media platform project in a small, focussed team.
+
+Environment: Ruby on Rails, PostgreSQL
+
+- Designed and implemented trial version allowing users limited content and chat functionality
+- Implemented a user rating system to maintain platform quality
