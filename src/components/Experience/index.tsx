@@ -30,10 +30,7 @@ const Experience: React.FC = () => {
           subtitle
         }
       }
-      allMarkdownRemark(
-        filter: { frontmatter: { category: { eq: "experiences" } } }
-        sort: { order: DESC, fields: frontmatter___title }
-      ) {
+      allMarkdownRemark(filter: { frontmatter: { category: { eq: "experiences" } } }) {
         edges {
           node {
             id
