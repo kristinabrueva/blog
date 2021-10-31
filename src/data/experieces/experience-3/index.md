@@ -1,14 +1,14 @@
 ---
 category: 'experiences'
-company: 'Tensor'
-position: 'Frontend Developer'
-startDate: 'Nov 2013'
-endDate: 'Apr 2014'
+company: 'Social Media Platform'
+position: 'Freelance Developer'
+startDate: 'Nov 2014'
+endDate: 'Apr 2015'
 ---
 
-Tensor is a large Russian company that develops an ecosystem for business — GSI, the operator of e-document flow, federal certification centre, the fiscal data operator accredited by FTS.
+Worked on a social media platform project in a small, focussed team.
 
-- JavaScript developer in a large team with specific environment and documentation
-- Created payment forms and validation
-- Created and modified data filters and form auto-complete
-- Converted Form Data to PDF
+Environment: Ruby on Rails, PostgreSQL
+
+- Designed and implemented trial version allowing users limited content and chat functionality
+- Implemented a user rating system to maintain platform quality
