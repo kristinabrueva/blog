@@ -1,13 +1,16 @@
 ---
 category: 'experiences'
-company: 'Alembic'
-position: 'Junior Software Developer'
-startDate: 'May 2021'
-endDate: 'Present'
+company: 'Admiral Makarov State University'
+position: 'Junior Developer'
+startDate: 'Oct 2012'
+endDate: 'Aug 2013'
 ---
 
-I've been working on various Alembic projects using React, TypeScript, Next.JS, Node.JS, Tailwind CSS, Styled components, GraphQL and Elixir.
+I was able to demonstrate exceptional organisational and time management skills. I worked collaboratively within a team environment and actively engaged with diverse stakeholders. Environment: HTML/CSS, PHP, Joomla
 
-- Planned, estimated and delivered features in front end and back end applications.
-- Improved code structure and quality by refactoring, testing, and building a reusable component library.
-- Migrated front end application to typescript
+My main responsibility was website management and coordination
+
+- Created, edited & published content on the website
+- Created and optimised pages including titles, descriptions, images, and content for SEO
+- Ensured website banners are optimised and up to date
+- Managed confidential and sensitive material, including the maintenance of accurate and appropriate records of applicants in the database

@@ -1,9 +1,16 @@
 ---
 category: 'experiences'
-company: 'Barcode Essentials    '
-position: 'Junior Software Developer'
-startDate: 'March 2021'
-endDate: 'April 2021'
+company: 'Cupli'
+position: 'Ruby Developer'
+startDate: 'Aug 2013'
+endDate: 'Oct 2013'
 ---
 
-Barcode Essentials is the leading fixed asset barcoding solution for the Symantec Management Platform. I designed and developed the new company website using React, Axios and Serverless
+Cupli is the provider of an online market research platform designed for polls and surveys in social networks. It makes use of Facebook APIs to facilitate integration.
+
+Environment: Ruby on Rails, D3.js, PostgreSQL
+
+- Designed and created visual graphs using D3.js
+- Created different question types with validations
+- Repopulated answers with the user data gathered from FB API
+- Implemented A/B testing

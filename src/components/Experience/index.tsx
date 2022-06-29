@@ -30,7 +30,10 @@ const Experience: React.FC = () => {
           subtitle
         }
       }
-      allMarkdownRemark(filter: { frontmatter: { category: { eq: "experiences" } } }) {
+      allMarkdownRemark(
+        filter: { frontmatter: { category: { eq: "experiences" } } }
+        sort: { order: ASC, fields: fileAbsolutePath }
+      ) {
         edges {
           node {
             id
