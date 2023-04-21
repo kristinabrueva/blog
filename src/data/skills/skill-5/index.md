@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'React'
-percentage: 74
+title: 'Next.js / Phoenix LiveView / GatsbyJS'
+percentage: 76
 ---

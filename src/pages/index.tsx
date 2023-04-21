@@ -14,7 +14,6 @@ const IndexPage: React.FC = () => {
       <HeroBanner />
       <Skills />
       <Services />
-      <ContactInfo />
     </Layout>
   );
 };

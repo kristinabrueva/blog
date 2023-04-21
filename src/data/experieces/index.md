@@ -1,4 +1,4 @@
 ---
 category: 'experiences section'
-subtitle: 'My Experience'
+subtitle: 'Work Experience'
 ---

@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'TypeScript'
+title: 'Storybook / Jest / React Testing Library'
 percentage: 76
 ---

@@ -8,7 +8,8 @@ endDate: 'Apr 2014'
 
 Tensor is a large Russian company that develops an ecosystem for business — GSI, the operator of e-document flow, federal certification centre, the fiscal data operator accredited by FTS.
 
-- JavaScript developer in a large team with specific environment and documentation
-- Created payment forms and validation
-- Created and modified data filters and form auto-complete
-- Converted Form Data to PDF
+Technology stack: JavaScript, Python
+
+- Worked in a large distributed team with a specific environment and documentation.
+- Introduced and developed data filters, forms, validation, and form auto-complete to improve user experience.
+- Delivered feature to export data as a PDF.

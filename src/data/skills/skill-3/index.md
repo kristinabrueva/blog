@@ -1,5 +1,5 @@
 ---
 category: 'skills'
-title: 'JavaScript'
+title: 'CSS / Tailwind CSS / StyledComponents'
 percentage: 77
 ---

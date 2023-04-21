@@ -1,5 +1,4 @@
 ---
 category: 'skills'
-title: 'HTML'
-percentage: 60
+title: 'React / TypeScript / Javascript / NodeJS'
 ---

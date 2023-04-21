@@ -16,8 +16,6 @@ const HeroBanner: React.FC = () => {
     query {
       markdownRemark(frontmatter: { category: { eq: "hero section" } }) {
         frontmatter {
-          title
-          subtitle
           content
           linkTo
           linkText
@@ -28,15 +26,7 @@ const HeroBanner: React.FC = () => {
 
   const heroBanner: SectionHeroBanner = markdownRemark.frontmatter;
 
-  return (
-    <Banner
-      title={heroBanner.title}
-      subtitle={heroBanner.subtitle}
-      content={heroBanner.content}
-      linkTo={heroBanner.linkTo}
-      linkText={heroBanner.linkText}
-    />
-  );
+  return <Banner content={heroBanner.content} linkTo={heroBanner.linkTo} linkText={heroBanner.linkText} />;
 };
 
 export default HeroBanner;

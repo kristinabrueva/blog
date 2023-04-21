@@ -15,10 +15,9 @@ interface Props {
   linkText: string;
 }
 
-const Banner: React.FC<Props> = ({ title, subtitle, content, linkTo, linkText }) => (
+const Banner: React.FC<Props> = ({ content, linkTo, linkText }) => (
   <Styled.Banner>
     <Container section>
-      <TitleSection title={title} subtitle={subtitle} />
       <Styled.Content>{content}</Styled.Content>
       <Link to={linkTo}>
         <Button primary>{linkText}</Button>
