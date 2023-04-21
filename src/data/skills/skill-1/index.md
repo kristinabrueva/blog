@@ -1,4 +1,4 @@
 ---
 category: 'skills'
-title: 'React / TypeScript / Javascript / NodeJS'
+title: 'React / TS / JS / NodeJS'
 ---
